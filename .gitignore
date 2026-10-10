@@ -1,0 +1,15 @@
+# Credenciales y entorno
+.env
+*.env
+!.env.example
+# Python
+__pycache__/
+*.pyc
+.venv/
+# Power BI (cache local)
+.pbi/
+localSettings.json
+cache.abf
+# Sistema
+.DS_Store
+Thumbs.db

@@ -1,0 +1,8 @@
+{
+  "filas_leidas": 887,
+  "rechazadas_duplicados": 23,
+  "rechazadas_faltantes": 15,
+  "rechazadas_rango_fisico": 17,
+  "filas_validas": 832,
+  "pct_datos_validos": 93.8
+}
