@@ -6,8 +6,8 @@
 
 | Campo | Contenido |
 |---|---|
-| Integrante 1 | NOMBRE COMPLETO 1 |
-| Integrante 2 | NOMBRE COMPLETO 2 |
+| Integrante 1 | Jaime Alejandro Ocampo Quiceno|
+| Integrante 2 | trabajo individual |
 | Curso y grupo | Inteligencia de Negocios · Grupo 50 |
 | Semestre | 2026-II |
 | Docente | Ramiro Grisales Montoya |
@@ -46,8 +46,8 @@ solarbi-apellido1-apellido2/
 
 1. Clonar el repositorio e instalar dependencias:
    ```bash
-   git clone https://github.com/USUARIO/solarbi-apellido1-apellido2.git
-   cd solarbi-apellido1-apellido2
+   git clone https://github.com/aleho11111/solarbi-ocampo-quiceno.git
+   cd solarbi-ocampo-quiceno
    pip install -r requirements.txt
    ```
 2. Crear la base de datos en PostgreSQL (una sola vez):
@@ -75,12 +75,12 @@ Para ejecutar el ETL cada día a medianoche: `0 0 * * * cd /ruta/al/repo && pyth
 
 | Tarea | Responsable |
 |---|---|
-| Repositorio, README y .gitignore | Integrante 1 |
-| Simulador y reglas de calidad (Silver) | Integrante 1 |
-| Carga en PostgreSQL y UPSERT (Gold) | Integrante 2 |
-| Tablero en Power BI | Integrante 2 |
-| Tablero en Grafana | Integrante 1 |
-| Parte A (consulta) y PDF | Ambos |
+| Repositorio, README y .gitignore | Jaime Alejandro Ocampo |
+| Simulador y reglas de calidad (Silver) 
+| Carga en PostgreSQL y UPSERT (Gold) 
+| Tablero en Power BI 
+| Tablero en Grafana 
+| Parte A (consulta) y PDF 
 
 ## Seguridad
 
